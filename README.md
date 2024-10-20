@@ -2,7 +2,7 @@
 
 ¡Bienvenido al proyecto de la aplicación Rick and Morty! Esta es una aplicación web que permite a los usuarios explorar personajes de la popular serie animada "Rick and Morty" usando React. Ofrece funcionalidades básicas como búsqueda, filtrado y la opción de agregar personajes a la lista de favoritos.
 
-Este código se provee con una "Guia" que se puede encontrar el documento [Ejercicio-React-docx](Ejercicio-React.docx/ "Test") y que deberá usarse para este ejercicio.   Se trata de seguir dicha guia explicativa, y ir haciendo (y entendiendo) el código para afinzar los conceptos clave de React
+Este código se provee con una guia en el documento  [Ejercicio-React.pdf](Ejercicio-React.pdf "Guia de Realización del Ejercicion") , que deberá usarse como referencia para este ejercicio.   Se trata de seguir dicha guia explicativa, y ir haciendo (y entendiendo) el código para afinzar los conceptos clave de React
 
 ## Funcionalidades
 
@@ -20,9 +20,10 @@ Este código se provee con una "Guia" que se puede encontrar el documento [Ejerc
 
 ## Instalación
 
-Sigue estos pasos para ejecutar el proyecto en tu máquina local:
+Para ejecutar el proyecto en tu máquina local, clona este repositorio:
 
-1. Clona este repositorio:
+1. ```bash
+   git clone https://github.com/agorosti/proyecto-rick-and-morty.git
+   ```
 
-   ```bash
-   git clone https://github.com/tu-usuario/proyecto-rick-and-morty.git
+   Te recomendamos que, aunque dispongas del codigo ya en local,  sigas la guia,  te hagas un nuevo proyecto (independiente del clonado), y vayas realizando poco a poco los pasos de la guia, copiando el código si es necesario.
