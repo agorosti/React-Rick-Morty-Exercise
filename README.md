@@ -1,6 +1,8 @@
-# Proyecto Rick and Morty
+# Proyecto Rick and Morty en React
 
-¡Bienvenido al proyecto de la aplicación Rick and Morty! Esta es una aplicación web que permite a los usuarios explorar personajes de la popular serie animada "Rick and Morty". Ofrece funcionalidades básicas como búsqueda, filtrado y la opción de agregar personajes a la lista de favoritos.
+¡Bienvenido al proyecto de la aplicación Rick and Morty! Esta es una aplicación web que permite a los usuarios explorar personajes de la popular serie animada "Rick and Morty" usando React. Ofrece funcionalidades básicas como búsqueda, filtrado y la opción de agregar personajes a la lista de favoritos.
+
+Este código se provee con una "Guia" que se puede encontrar el documento [Ejercicio-React-docx](Ejercicio-React.docx/ "Test") y que deberá usarse para este ejercicio.   Se trata de seguir dicha guia explicativa, y ir haciendo (y entendiendo) el código para afinzar los conceptos clave de React
 
 ## Funcionalidades
 
